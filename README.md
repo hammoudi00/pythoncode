@@ -1,4 +1,4 @@
 # Detecting ARP Spoof attacks using Scapy in Python
-pip3 install scapy
+1- pip3 install scapy
 
-python3 detect_arpspoof.py wlan0
+2- python3 detect_arpspoof.py wlan0
